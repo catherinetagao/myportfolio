@@ -11,12 +11,6 @@ const StickyHeader = () => {
             class="flex items-center w-auto h-10"
           />
         </a>
-
-        {/* <div>
-          <button class="btn btn-light">Skills</button>
-          <button class="btn btn-light">Projects</button>
-          <button class="btn btn-light">Contact</button>
-        </div> */}
         <div class="flex items-center space-x-1">
           <div class="hidden space-x-1 md:inline-flex">
             <a href="#skills" class="btn btn-sm btn-light">

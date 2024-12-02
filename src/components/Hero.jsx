@@ -4,43 +4,12 @@ const Hero = () => {
   return (
     <section class="grid grid-cols-1 gap-0 bg-blue-100 bg-opacity-25 md:grid-cols-2">
       <div class="flex flex-col items-start justify-center px-4 py-24 lg:px-20">
-        <span class="mb-3 text-white bg-gray-900 badge">
+        <span class="mb-3 text-white bg-gray-900 rounded-lg p-2">
           Undergraduate IT Student & Aspiring Web Developer
         </span>
         <h1 class="mb-6 text-4xl font-bold leading-tight text-{#000000}-900 md:text-4xl lg:text-5xl">
           Catherine Orbe
         </h1>
-        {/* <form class="w-full mb-6">
-          <label class="sr-only">Your Email</label>
-          <div class="block lg:hidden">
-            <input
-              class="text-blue-900 form-input form-input-lg"
-              type="email"
-              placeholder="Enter your email..."
-              required="true"
-            />
-            <button
-              class="w-full mt-2 text-white bg-blue-900 hover:bg-blue-800 btn btn-lg"
-              type="submit"
-            >
-              Get Started
-            </button>
-          </div>
-          <div class="hidden w-full form-append lg:flex">
-            <input
-              class="text-blue-900 form-input form-input-lg"
-              type="email"
-              placeholder="Enter your email..."
-              required="true"
-            />
-            <button
-              class="text-white bg-blue-900 hover:bg-blue-800 btn btn-lg"
-              type="submit"
-            >
-              Get Started
-            </button>
-          </div>
-        </form> */}
         <p class="pr-0 mb-4 text-sm text-{#000000}-800 tracking-relaxed lg:pr-16">
           Hello! I'm currently pursuing a Bachelor of Science in Information
           Technology. I'm passionate about web development and excited to learn

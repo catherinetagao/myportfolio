@@ -5,6 +5,7 @@ import StickyHeader from "./components/StickyHeader";
 import Hero from "./components/Hero";
 import SkillsPage from "./components/SkillsPage";
 import Projects from "./components/Projects";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <SkillsPage />
       <Projects />
+      <Footer />
     </section>
   );
 }
