@@ -19,13 +19,13 @@ const StickyHeader = () => {
         </div> */}
         <div class="flex items-center space-x-1">
           <div class="hidden space-x-1 md:inline-flex">
-            <a href="#" class="btn btn-sm btn-light">
+            <a href="#skills" class="btn btn-sm btn-light">
               Skills
             </a>
-            <a href="#" class="btn btn-sm btn-light">
+            <a href="#projects" class="btn btn-sm btn-light">
               Projects
             </a>
-            <a href="#" class="btn btn-sm btn-light">
+            <a href="#contact" class="btn btn-sm btn-light">
               Contact
             </a>
           </div>
