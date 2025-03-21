@@ -2,8 +2,8 @@ import React from "react";
 
 const StickyHeader = () => {
   return (
-    <header class="sticky top-0 bg-white shadow">
-      <div class="flex items-center justify-between p-4 mx-auto max-w-7xl">
+    <header class="sticky top-0 bg-white shadow z-10">
+      <div class="flex items-center justify-between p-4 mx-auto max-w-7xl ">
         <a href="">
           <img
             src="../ck_logo.png"
